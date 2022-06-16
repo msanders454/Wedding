@@ -29,6 +29,24 @@
     width: 100%;
     position: relative;
 }
+.item3{
+  background: url(../../images/slider/3.jpg);
+  height: 950px;
+   display: flex!important;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+}
+.item4{
+  background: url(../../images/slider/4.jpg);
+  height: 950px;
+   display: flex!important;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+}
 .item1:before,.item2:before{
   content: "";
   position: absolute;

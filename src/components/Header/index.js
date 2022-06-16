@@ -26,7 +26,7 @@ const Header = () => {
                                     <li><AnchorLink href='#story'>Story</AnchorLink></li>
                                     <li><AnchorLink href='#people'>People</AnchorLink></li>
                                     <li><AnchorLink href='#event'>Events</AnchorLink></li>
-                                    <li><AnchorLink href='#gallery'>Gallery</AnchorLink></li>
+                                    <li><Link to='faq'>FAQ</Link></li>
                                     <li><AnchorLink href='#rsvp'>Rsvp</AnchorLink></li>
                                 </ul>
                             </div>

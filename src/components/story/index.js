@@ -34,7 +34,11 @@ const Story = () =>{
                                         </div>
                                         <h2>First time we met</h2>
                                         <span className="date">May 31, 2017</span>
-                                        <p>Prepare for trouble and make it Double</p>
+                                        <p>Prepare for trouble and make it Double. Mike and Jessi met in Pollock dining commons
+                                        , while taking a water break. Mike's pickup line asking if Jessi had a partner name James
+                                        and a cat name Meowth. Jessi thought she was in trouble unitil she found out, Mike was just
+                                        weird.
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -51,7 +55,10 @@ const Story = () =>{
                                         </div>
                                         <h2>Our First Date</h2>
                                         <span className="date">July 25, 2017</span>
-                                        <p>Nothing is better then Chipotle</p>
+                                        <p>Nothing is better then Chipotle. Mike and Jessi's official first date was Chiptole.
+                                            Ok, not the most special place, but hey, we were college students. Plus we both
+                                            love Burrito bowls.
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -68,7 +75,11 @@ const Story = () =>{
                                         </div>
                                         <h2>Our Marriage Proposal</h2>
                                         <span className="date">Sept 14, 2021</span>
-                                        <p>We don't like cheesecake with lemon.</p>
+                                        <p>We don't like cheesecake with lemon. After moving in together in 2020, Michael and Jessi felt
+                                            the time was right for Marriage. Mike thought the perfect proposal was to use ring pops and cheesecake.
+                                            We really are not the flashy type of people but the proposal was right for us. My only regret was to have 
+                                            cheesecake without lemon.
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -84,8 +95,10 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Our Wedding</h2>
-                                        <span className="date">May 20, 2023</span>
-                                        <p>Now you get to be part of our story</p>
+                                        <span className="date">May 27, 2023</span>
+                                        <p>Now you get to be part of our story. Fill out the the RSVP form below and help us
+                                            celebrate this special event.
+                                        </p>
                                     </div>
                                 </div>
                             </div>

@@ -10,7 +10,9 @@ const Welcome = () =>{
                     <div className="col-lg-12">
                         <div className="welcome-content">
                             <h2>Welcome to our big day</h2>
-                            <p>Intro stuff. Blah Blah Blah</p>
+                            <p>Welcome to Jessi and Mike's wedding website. We are excited for our big day
+                                and we want to celebrate it with our friends and family. Please take a look at our story
+                                and plans. Hopefully we can see you on May 27th. </p>
                         </div>
                     </div>
                 </div>

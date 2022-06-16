@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import gift1 from '../../images/gift/2.png'
-import gift2 from '../../images/gift/3.png'
-import gift3 from '../../images/gift/4.png'
-import gift4 from '../../images/gift/2.png'
-import './style.css'
+//import gift1 from '../../images/gift/2.png'
+//import gift2 from '../../images/gift/3.png'
+//import gift3 from '../../images/gift/4.png'
+//import gift4 from '../../images/gift/2.png'
+//import './style.css'
 
 
 class Gift extends Component {
@@ -42,7 +42,7 @@ class Gift extends Component {
                 slidesToScroll: 1
               }
             }
-          ]
+          ] 
       };
       return (
           <div className="gift-area">
@@ -50,11 +50,18 @@ class Gift extends Component {
                     <div className="col-12">
                       <div className="section-title text-center">
                           <h2>Gift Registration</h2>
-                          <p>Looking for gift ideas? You can select an item from the list below.  
+                          <p className="gift-info">Looking for gift ideas? You can select an item from the list below.  
                             Alternativly, you can also donate to our honeymoon fund. We are planning on 
                             honeymooning in Seattle Washington</p>
+
+                            <p className="gift-info">Gift Information is a little Dull. Don't worry
+                              Mike and Jessi are planning. Come back soon of more
+                              Details
+                            </p>
                       </div>
+                      <Slider {...settings}></Slider>
                   </div>
+                  {/*
                   <div className="row gift-item">
                       <div className="col-lg-12">
                         <Slider {...settings}>
@@ -84,7 +91,7 @@ class Gift extends Component {
                             </div>
                             </Slider>
                       </div>
-                  </div>
+                  </div> */}
               </div>
           </div>
       );

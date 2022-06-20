@@ -34,10 +34,10 @@ const Story = () =>{
                                         </div>
                                         <h2>First time we met</h2>
                                         <span className="date">May 31, 2017</span>
-                                        <p>Prepare for trouble and make it Double. Mike and Jessi met in Pollock dining commons
-                                        , while taking a water break. Mike's pickup line asking if Jessi had a partner name James
-                                        and a cat name Meowth. Jessi thought she was in trouble unitil she found out, Mike was just
-                                        weird.
+                                        <p>Prepare for trouble and make it Double. Mike and Jessi met in Pollock dining commons,
+                                             while taking a water break. Mike's pickup line asking if Jessi had a partner name James
+                                            and a cat name Meowth. Jessi thought she was in trouble unitil she found out, Mike was just
+                                            weird.
                                         </p>
                                     </div>
                                 </div>
@@ -77,8 +77,8 @@ const Story = () =>{
                                         <span className="date">Sept 14, 2021</span>
                                         <p>We don't like cheesecake with lemon. After moving in together in 2020, Michael and Jessi felt
                                             the time was right for Marriage. Mike thought the perfect proposal was to use ring pops and cheesecake.
-                                            We really are not the flashy type of people but the proposal was right for us. My only regret was to have 
-                                            cheesecake without lemon.
+                                            We really are not the flashy type of people but the proposal was right for us. Next time though
+                                            let's have cheesecake without lemon.
                                         </p>
                                     </div>
                                 </div>

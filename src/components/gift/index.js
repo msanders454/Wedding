@@ -51,7 +51,7 @@ class Gift extends Component {
                       <div className="section-title text-center">
                           <h2>Gift Registration</h2>
                           <p className="gift-info">Looking for gift ideas? You can select an item from the list below.  
-                            Alternativly, you can also donate to our honeymoon fund. We are planning on 
+                            Alternatively, you can also donate to our honeymoon fund. We are planning on 
                             honeymooning in Seattle Washington</p>
 
                             <p className="gift-info">Gift Information is a little Dull. Don't worry

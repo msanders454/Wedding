@@ -9,7 +9,7 @@ const Couple = () => {
     return(
         <div id="couple" className="about-wrap">
             <div className="couple-area section-padding pb-70">
-                <Sectiontitle section={'Happy Cuple'}/>
+                <Sectiontitle section={'Happy Couple'}/>
                 <div className="container">
                     <div className="couple-wrap">
                         <div className="row">
@@ -46,7 +46,12 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Michael Sanders</h3>
-                                            <p>Hi I am Michael Sanders. I am going to introduce myself. I am going to introduce myself.</p>
+                                            <p>Hi I am Michael Sanders. Thank you for coming out to 
+                                                our website. I am an inspring web devloper who worked 
+                                                hard on creating this site. I enjoy Presidents, 
+                                                Football "Fly Eagles Fly" and video games. Especically Zelda 
+                                                and Pokemon. I love Jessi with all my heart and will be her best
+                                                husband and partner in crime.</p>
                                         </div>
                                         <div className="social-icon">
                                         <ul className="d-flex">

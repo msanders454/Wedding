@@ -1,11 +1,14 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+
+
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import MobileMenu from '../../components/MobileMenu'
 
 import './style.css'
 
-const Header = () => {
+
+const Header = (props) => {
 
     return(
 
@@ -21,7 +24,7 @@ const Header = () => {
                         <div className="col-lg-9">
                             <div className="header-menu d-lg-block d-none">
                                 <ul className="mobail-menu d-flex">
-                                    <li><Link to='#'>Home</Link></li>
+                                    <li><AnchorLink href='#home'>Home</AnchorLink></li>
                                     <li><AnchorLink href='#couple'>Couple</AnchorLink></li>
                                     <li><AnchorLink href='#story'>Story</AnchorLink></li>
                                     <li><AnchorLink href='#people'>People</AnchorLink></li>

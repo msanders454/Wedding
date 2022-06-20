@@ -229,7 +229,7 @@ const People = (props) => {
                                                 </div>
                                             </div>
                                             <div className="person-content">
-                                                <h3>Katie Skolnick</h3>
+                                                <h3>... ...</h3>
                                                 <span>Best Friend</span>
                                             </div>
                                         </div>

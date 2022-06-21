@@ -160,7 +160,7 @@ const People = (props) => {
                                                 <img src={bride7} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>Best friend rather you like it or not.</p>
+                                                        <p>Jessi, you better take care of your Mike</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -176,7 +176,8 @@ const People = (props) => {
                                                 <img src={bride8} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>Sisterly Love</p>
+                                                        <p>“Love. It is a beautiful and terrible thing, and should 
+                                                            therefore be treated with great caution.”</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -240,7 +241,7 @@ const People = (props) => {
                                                 <img src={bride12} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>Mike, get me off this website</p>
+                                                        <p>Michael Shawn Sanders the II, get me off this website</p>
                                                     </div>
                                                 </div>
                                             </div>

@@ -142,15 +142,14 @@ const faq = () =>{
                                             If you would like to use the Graduate, you will need to book by April 26th, after that day they release the unused rooms.
 
                                             Other hotels besides the Graduate are available. Here is a list of other hotels near the Graduate.
-
-                                            <ul>
+                                        </p>
+                                        <ul>
                                                 <li><a href="https://www.google.com/travel/hotels/State%20College%2C%20PA/entity/ChoIwpG15vbCvsmJARoNL2cvMTFjMzdncjZxcRAB?q=state%20college%20hotels&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4786153%2C4786958%2C4787395%2C4790255%2C4794648%2C4799683&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaNQoXEhM6EVN0YXRlIENvbGxlZ2UsIFBBGgASGhIUCgcI5g8QBhgUEgcI5g8QBhgVGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogERU3RhdGUgQ29sbGVnZSwgUEE&ap=SABoAQ&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwjwrtfktrD4AhUAAAAAHQAAAAAQAw">Hyatt Place State College</a> $143 a night</li>
                                                 <li><a href="https://www.google.com/travel/hotels/State%20College%2C%20PA/entity/ChcI-KyJ3umyqZUuGgsvZy8xdGc1MWRmMhAB?q=state%20college%20hotels&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4786153%2C4786958%2C4787395%2C4790255%2C4794648%2C4799683&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaNQoXEhM6EVN0YXRlIENvbGxlZ2UsIFBBGgASGhIUCgcI5g8QBhgUEgcI5g8QBhgVGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogERU3RhdGUgQ29sbGVnZSwgUEE&ap=SABoAQ&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwjAr-2OtbD4AhUAAAAAHQAAAAAQAw">Ramada by Wyndham State College Hotel</a> $94 a night.</li>
                                                 <li><a href="https://www.google.com/travel/hotels/State%20College%2C%20PA/entity/ChgI6umq-4G7k4n4ARoLL2cvMXRkNnoyaDcQAQ?q=state%20college%20hotels&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4786153%2C4786958%2C4787395%2C4790255%2C4794648%2C4799683&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaNQoXEhM6EVN0YXRlIENvbGxlZ2UsIFBBGgASGhIUCgcI5g8QBhgUEgcI5g8QBhgVGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogERU3RhdGUgQ29sbGVnZSwgUEE&ap=SABoAQ&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwiA1qqntbD4AhUAAAAAHQAAAAAQAw">Super 8 by Wyndham State College</a> $70 a night</li>
                                                 <li><a href="https://www.google.com/travel/hotels/State%20College%2C%20PA/entity/ChcIxL7aidmWysAEGgsvZy8xdGdkcGpuZBAB?q=state%20college%20hotels&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4786153%2C4786958%2C4787395%2C4790255%2C4794648%2C4799683&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaNQoXEhM6EVN0YXRlIENvbGxlZ2UsIFBBGgASGhIUCgcI5g8QBhgUEgcI5g8QBhgVGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogERU3RhdGUgQ29sbGVnZSwgUEE&ap=SABoAQ&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwiY8NDctbD4AhUAAAAAHQAAAAAQAw">Sleep Inn near Penn State</a> $90 a night</li>
                                                 <li><a href="https://www.google.com/travel/hotels/State%20College%2C%20PA/entity/ChoI8Naxq4eQpJ6iARoNL2cvMTFtdzdoajRnXxAB?q=state%20college%20hotels&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4786153%2C4786958%2C4787395%2C4790255%2C4794648%2C4799683&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaNQoXEhM6EVN0YXRlIENvbGxlZ2UsIFBBGgASGhIUCgcI5g8QBhgUEgcI5g8QBhgVGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogERU3RhdGUgQ29sbGVnZSwgUEE&ap=SABoAQ&ictx=1&ved=0CAAQ5JsGahcKEwiQpZ7EtrD4AhUAAAAAHQAAAAAQAw&utm_campaign=sharing&utm_medium=link&utm_source=htls">Scholar State College, Tapestry Collection by Hilton</a> $240 a night</li>
-                                            </ul>
-                                        </p>
+                                        </ul>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -200,15 +199,14 @@ const faq = () =>{
                                         <h2>Do you have great recommendations for cafes, restaurants, museums, points of interest, and activities?</h2>
                                         <p>For a college town, Penn State has suprisingly a lot to do for a weekend. It's not as busy during the summer
                                             but theres still a lot to do.
-
-                                            <ul>
+                                        </p>
+                                        <ul>
                                                 <li><a href="https://nittany.org/">Climb Mount Nittany</a></li>
                                                 <li><a href="https://tusseymountain.com/">Tussey Mountain Games</a></li>
                                                 <li><a href="https://arboretum.psu.edu/">Smell the Flowers at the Arboretum</a></li>
                                                 <li><a href="http://www.cafe210.net/">Enjoy one of PSU's best restaurants and bars.</a></li>
                                                 <li><a href="https://palmermuseum.psu.edu/">Get lost in Penn State's art museum</a></li>
-                                            </ul>
-                                        </p>
+                                        </ul>
                                     </div>
                                 </div>
 

@@ -54,8 +54,8 @@ class Gift extends Component {
                             Alternatively, you can also donate to our honeymoon fund. We are planning on 
                             honeymooning in Seattle Washington</p>
 
-                            <p className="gift-info">Gift Information is a little Dull. Don't worry
-                              Mike and Jessi are planning. Come back soon of more
+                            <p className="gift-info">Uh Oh. The Gift Information is empty. Don't worry
+                              Mike and Jessi are setting up the registry. Come back soon of more
                               Details
                             </p>
                       </div>

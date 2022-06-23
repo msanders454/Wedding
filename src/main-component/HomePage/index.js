@@ -11,6 +11,7 @@ import Rsvp from '../../components/rsvp';
 import Gift from '../../components/gift';
 import Navbar from '../../components/Navbar'
 import Saveday from '../../components/countdown'
+import Scrollbar from '../../components/scrollbar'
 
 
 const Homepage = () => {
@@ -26,6 +27,7 @@ const Homepage = () => {
            <Location/>
            <Rsvp/>
            <Gift/>
+           <Scrollbar/>
        </div>
     )
 }

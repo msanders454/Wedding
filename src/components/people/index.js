@@ -26,7 +26,7 @@ const People = (props) => {
 
         <div id="people" className="person-area section-padding pb-70">
             <div className="container">
-                <Sectiontitle section={'Groomsmen & Bridesmaid'}/>
+                <Sectiontitle section={'Parents, Groomsmen & Bridesmaid'}/>
                 <div className="person-area-menu">
                     <div className="person-btn">
                         <Nav tabs>
@@ -160,7 +160,7 @@ const People = (props) => {
                                                 <img src={bride7} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>Jessi, you better take care of your Mike</p>
+                                                        <p>Jessi, your Mike better take care of you.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -176,8 +176,7 @@ const People = (props) => {
                                                 <img src={bride8} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>“Love. It is a beautiful and terrible thing, and should 
-                                                            therefore be treated with great caution.”</p>
+                                                        <p>“Please be better than Hermaine and Ron.”</p>
                                                     </div>
                                                 </div>
                                             </div>

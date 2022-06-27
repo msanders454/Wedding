@@ -45,7 +45,7 @@ const Location = () => {
                             <span className='date'>Saturday,May 27th, 2.00 PM -3.00 pm {'\n'} </span>
                             <h3>Reception Party</h3>
                             <span className='date'>Saturday,May 27th, 6.00 PM -12.00 AM</span>
-                            <p>Both the ceremony and the receptiob will both be at the Graduate hotel.
+                            <p>Both the ceremony and the reception will both be at the Graduate hotel.
                                 More details will arrive later. </p>
                             <a href="https://www.google.com/maps/place/Graduate+State+College/@40.7912949,-77.8728839,15z/data=!3m1!4b1!4m8!3m7!1s0x89cea97ed24f9533:0x26d761474571529b!5m2!4m1!1i2!8m2!3d40.791279!4d-77.8641506">See Location</a>
                         </div>

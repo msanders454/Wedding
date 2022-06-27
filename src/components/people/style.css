@@ -68,7 +68,7 @@ person-area
     background: rgba(94, 154, 142, .6);
     z-index: 1;
     line-height: 40px;
-    border: 1px solid #fff;
+    border: 1px solid rgb(228, 237, 152);
     margin: 10px;
     z-index: -1;
     color: #fff;
@@ -90,7 +90,8 @@ person-area
 
 .person-content {
     text-align: center;
-    background: #fff;
+    background: #f7f7e6;
+    border-radius: 5%;
     padding: 10px;
 }
 
@@ -107,7 +108,7 @@ person-area
 .person-btn ul {
     justify-content: center;
     margin-bottom: 30px!important;
-    border-bottom: 1px solid #8ec7bc5e;
+    border-bottom: 1px solid #ebd6605e;
 }
 
 .person-btn ul li a.nav-link {
@@ -127,11 +128,11 @@ person-area
 }
 .person-btn .nav-tabs .nav-item.show .nav-link, 
 .person-btn .nav-tabs .nav-link.active{
-    background: #4e7b72;
+    background: #8e8016;
     color: #fff;
 }
 .person-btn .nav-tabs .nav-item .nav-link:hover{
-    background: #4e7b72;
+    background: #667b21;
     color: #fff;
 }
 

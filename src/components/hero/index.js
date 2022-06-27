@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Particles from 'react-particles-js';
 
 import stockShape2 from '../../images/hero/icon.png'
+import stockShape3 from '../../images/hero/icon2.png'
 import Slider from "react-slick";
 
 import "slick-carousel/slick/slick.css";
@@ -63,12 +64,12 @@ class SimpleSlider extends Component {
                             ],
                             images: [
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -78,7 +79,7 @@ class SimpleSlider extends Component {
                                     width: 46
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 29,
                                     width: 33,
                                 },
@@ -88,12 +89,12 @@ class SimpleSlider extends Component {
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -108,7 +109,7 @@ class SimpleSlider extends Component {
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -118,7 +119,7 @@ class SimpleSlider extends Component {
                                     width: 46
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 29,
                                     width: 33,
                                 },
@@ -128,7 +129,7 @@ class SimpleSlider extends Component {
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -138,14 +139,14 @@ class SimpleSlider extends Component {
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 5,
                                     width: 7
                                 },
                             ]
                         },
                         color: {
-                            value: "#85aaba"
+                            value: "#afba85"
                         },
                         size: {
                             value: 20,
@@ -246,12 +247,12 @@ class SimpleSlider extends Component {
                             ],
                             images: [
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -261,7 +262,7 @@ class SimpleSlider extends Component {
                                     width: 46
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 29,
                                     width: 33,
                                 },
@@ -271,7 +272,7 @@ class SimpleSlider extends Component {
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -281,7 +282,7 @@ class SimpleSlider extends Component {
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 5,
                                     width: 7
                                 },
@@ -291,7 +292,7 @@ class SimpleSlider extends Component {
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -301,7 +302,7 @@ class SimpleSlider extends Component {
                                     width: 46
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 29,
                                     width: 33,
                                 },
@@ -311,7 +312,7 @@ class SimpleSlider extends Component {
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -321,14 +322,14 @@ class SimpleSlider extends Component {
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 5,
                                     width: 7
                                 },
                             ]
                         },
                         color: {
-                            value: "#85aaba"
+                            value: "#afba85"
                         },
                         size: {
                             value: 20,
@@ -427,7 +428,7 @@ class SimpleSlider extends Component {
                             ],
                             images: [
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
@@ -437,7 +438,7 @@ class SimpleSlider extends Component {
                                     width: 20
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 2,
                                     width: 46
                                 },
@@ -447,7 +448,7 @@ class SimpleSlider extends Component {
                                     width: 33,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 10,
                                     width: 12,
                                 },
@@ -457,7 +458,7 @@ class SimpleSlider extends Component {
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -467,7 +468,7 @@ class SimpleSlider extends Component {
                                     width: 7
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
@@ -477,7 +478,7 @@ class SimpleSlider extends Component {
                                     width: 20
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 2,
                                     width: 46
                                 },
@@ -487,7 +488,7 @@ class SimpleSlider extends Component {
                                     width: 33,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 10,
                                     width: 12,
                                 },
@@ -497,7 +498,7 @@ class SimpleSlider extends Component {
                                     width: 22
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -509,7 +510,7 @@ class SimpleSlider extends Component {
                             ]
                         },
                         color: {
-                            value: "#85aaba"
+                            value: "#afba85"
                         },
                         size: {
                             value: 20,
@@ -608,12 +609,12 @@ class SimpleSlider extends Component {
                             ],
                             images: [
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -628,12 +629,12 @@ class SimpleSlider extends Component {
                                     width: 33,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 10,
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -648,12 +649,12 @@ class SimpleSlider extends Component {
                                     width: 7
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 13,
                                     width: 15,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 20,
                                     width: 20
                                 },
@@ -668,12 +669,12 @@ class SimpleSlider extends Component {
                                     width: 33,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 10,
                                     width: 12,
                                 },
                                 {
-                                    src: `${stockShape2}`,
+                                    src: `${stockShape3}`,
                                     height: 21,
                                     width: 22
                                 },
@@ -690,7 +691,7 @@ class SimpleSlider extends Component {
                             ]
                         },
                         color: {
-                            value: "#85aaba"
+                            value: "#afba85"
                         },
                         size: {
                             value: 20,

@@ -47,7 +47,7 @@ Story-Area
     left: 50%;
     height: 97%;
     width: 4px;
-    background: #E8EFED;
+    background: #efefe8;
 }
 .story-area.story-style-2 .story .content-wrapper::before {
     background:#9a8c40a6;
@@ -86,10 +86,10 @@ Story-Area
 }
 
 .story .item .story-content:hover {
-    background: #f2f9f7;
+    background: #f7f7e6;
 }
 .story-area.story-style-2  .story .item .story-content:hover {
-    background: #9a8c401a;
+    background: #a590181a;
 }
 
 .story .item .story-content>p,
@@ -102,7 +102,7 @@ Story-Area
 }
 .story a.story-btn {
     font-weight: 500;
-    color: #5e9a8d;
+    color: #919235;
     text-transform: uppercase;
     font-size: 17px;
 }
@@ -264,7 +264,7 @@ Story-Area
     color: #333;
 }
 .story-area a.theme-btn:hover {
-    color: #5e9a8e;
+    color: #878a2e;
 }
 
 .story-area.story-style-2 a.theme-btn:hover{

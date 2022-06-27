@@ -81,6 +81,25 @@ const Story = () =>{
                                             let's have cheesecake without lemon.
                                         </p>
                                     </div>
+                                </div><div className="item">
+                                    <div className="story-icon">
+                                        <span className="flaticon-birds-in-love"></span>
+                                    </div>
+                                    <div className="story-content">
+                                        <div className="image-wrap">
+                                            <div className="single-image">
+                                                <div>
+                                                    <img src={strory2} alt=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2>Our First Child</h2>
+                                        <span className="date">June 24, 2022</span>
+                                        <p>On this day, Jessi and Mike Adopted thier first child. Ok may he's not
+                                            a human but he's still thier kid. Boog Gee Sanders is his name. And just like
+                                            a Sanders, Boog loves to eat.
+                                        </p>
+                                    </div>
                                 </div>
                                 <div className="item">
                                     <div className="story-icon">

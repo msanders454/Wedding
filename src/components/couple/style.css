@@ -18,6 +18,10 @@
     transition: all .3s;
 }
 
+.couple-wrap{
+    background: #f7f7e6;
+}
+
 .couple-wrap2 {
     background: #fefdf8;
 }

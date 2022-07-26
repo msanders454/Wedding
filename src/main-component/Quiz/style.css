@@ -1,0 +1,129 @@
+
+  
+  .quiz {
+    font-family: "Verdana", cursive, sans-serif;
+    color: #000000;
+    background-color: #ffe003;
+    width: 100%;
+    height: min-content;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 20px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .back-quiz{
+    padding: 12px 8px 12px;
+    position: static;
+    float: right;
+    font-size: 20px;
+    border-radius: 10% 30% 50% 70%;
+    font-weight: bold;
+    margin-top: 50px;
+    z-index: 99;
+    color: white ;
+    background: rgba(11, 54, 17, 0.636);
+    border-bottom: 1px solid rgba(167, 169, 43, 0);
+    text-align: left;
+    margin-left: -20px;
+}
+
+.back-quiz:hover {
+    background-color: #252f22;
+  }
+
+.score-section {
+    display: flex;
+    font-size: 30px;
+    margin-left: -35%;
+  }
+
+@media only screen and (max-width: 420px) {
+    .back-quiz{
+        font-size: 15px;
+        margin-left: -19px;
+    }
+    .quiz {
+        font-size: 15px;
+    }    
+    .score-section {
+        font-size: 20px;
+        margin-left: -30%;
+      }
+  }
+  
+  
+  /* QUESTION/TIMER/LEFT SECTION */
+  .question-section {
+    width: 100%;
+    position: relative;
+    margin-left: 30px;
+    font-weight: bold;
+
+  }
+  
+  .question-count {
+    margin-bottom: 20px;
+  }
+  
+  .question-count span {
+    font-size: 28px;
+  }
+  
+  .question-text {
+    margin-bottom: 12px;
+  }
+  
+  .timer-text {
+    background: rgb(230, 153, 12);
+    padding: 15px;
+    margin-top: 20px;
+    margin-right: 20px;
+    border: 5px solid rgb(255, 189, 67);
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  /* ANSWERS/RIGHT SECTION */
+  .answer-section {
+    width: 100%;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  button {
+    width: 100%;
+    font-size: 16px;
+    color: #000000;
+    background-color: #649e93;
+    display: flex;
+    padding: 5px;
+    justify-content: flex-start;
+    align-items: center;
+    border: 4px solid #000000;
+    cursor: pointer;
+  }
+  
+  .correct {
+    background-color: #2f922f;
+  }
+  
+  .incorrect {
+    background-color: #ff3333;
+  }
+  
+  button:hover {
+    background-color: #0b1708;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button svg {
+    margin-right: 5px;
+  }

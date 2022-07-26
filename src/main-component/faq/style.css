@@ -1,0 +1,24 @@
+.back{
+    padding: 12px 8px 12px;
+    position: fixed;
+    font-size: 15px;
+    border-radius: 10% 30% 50% 70%;
+    font-weight: bold;
+    margin-top: -85px;
+    z-index: 99;
+    color: white ;
+    background: rgba(11, 54, 17, 0.589);
+    border-bottom: 1px solid rgba(167, 169, 43, 0);
+    text-align: left;
+    margin-left: 34px;
+}
+
+
+@media only screen and (min-width: 981px) {
+    .back{
+        margin-left: 34px;
+    }
+    .story .item .story-content>p {
+        padding-bottom: 100px;
+    }
+  }

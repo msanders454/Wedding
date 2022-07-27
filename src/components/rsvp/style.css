@@ -1,10 +1,17 @@
 .rsvp-area {
-    background: linear-gradient(rgba(100, 158, 147, 0.50), rgba(100, 158, 147, 0.50)), transparent url(../../images/guest/1.jpg) center center/cover no-repeat fixed;
+    background: linear-gradient(rgb(228, 237, 152), rgba(100, 158, 147, 0.50)), transparent url(../../images/guest/1.jpg) center center/cover no-repeat fixed;
     padding: 100px 0;
     position: relative;
     background-attachment: fixed;
     z-index: 1;
     margin-bottom: 25px;
+}
+#rsvp-note{
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Muli', sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .rsvp-wrap {
     background: rgba(255, 255, 255, .9);

@@ -5,6 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "es": "^0.8.0",
+    "eslint": "^5.16.0",
     "esnpm": "^1.0.6",
     "i": "^0.3.7",
     "mailto": "^0.1.2",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
   }
 }

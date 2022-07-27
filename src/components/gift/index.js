@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-//import gift1 from '../../images/gift/2.png'
+import gift1 from '../../images/gift/2.png'
 //import gift2 from '../../images/gift/3.png'
 //import gift3 from '../../images/gift/4.png'
 //import gift4 from '../../images/gift/2.png'
-//import './style.css'
+import './style.css'
 
 
 class Gift extends Component {
@@ -50,14 +50,18 @@ class Gift extends Component {
                     <div className="col-12">
                       <div className="section-title text-center">
                           <h2>Gift Registration</h2>
-                          <p className="gift-info">Looking for gift ideas? You can select an item from the list below.  
-                            Alternatively, you can also donate to our honeymoon fund. We are planning on 
-                            honeymooning in Seattle Washington</p>
+                          <div><a href="http://www.honeyfund.com/wedding/sanders-hammond-05-27-2023" >
+                            <img
+                              id="seattle"
+                              src={gift1}
+                              alt="Seattle Needle"
+                            /></a>
+                      </div>
+                          <p className="gift-info">To continue our mission to visit all 50 States, we have decided to create a honeymoon fund. We are planning on 
+                            honeymooning in Seattle Washington. You can click the picture above and visit our Honeymoon registry. If you have the time to donate
+                            we would very much appiciate it.</p>
 
-                            <p className="gift-info">Uh Oh. The Gift Information is empty. Don't worry
-                              Mike and Jessi are setting up the registry. Come back soon of more
-                              Details
-                            </p>
+
                       </div>
                       <Slider {...settings}></Slider>
                   </div>

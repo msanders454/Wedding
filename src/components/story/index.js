@@ -3,6 +3,7 @@ import strory1 from '../../images/story/1.jpg'
 import strory2 from '../../images/story/2.jpg'
 import strory3 from '../../images/story/3.jpg'
 import strory4 from '../../images/story/4.jpg'
+import strory5 from '../../images/story/5.jpg'
 import './style.css'
 
 
@@ -89,7 +90,7 @@ const Story = () =>{
                                         <div className="image-wrap">
                                             <div className="single-image">
                                                 <div>
-                                                    <img src={strory2} alt=""/>
+                                                    <img src={strory5} alt=""/>
                                                 </div>
                                             </div>
                                         </div>

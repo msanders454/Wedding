@@ -31,7 +31,7 @@ const Header = (props) => {
                                     <li><AnchorLink href='#event'>Events</AnchorLink></li>
                                     <li><Link to='faq'>FAQ</Link></li>
                                     <li><Link to='quiz'>Quiz</Link></li>
-                                    <li><AnchorLink href='#rsvp'>Rsvp</AnchorLink></li>
+                                    <li><AnchorLink href='#rsvp'>Songs and Gifts</AnchorLink></li>
                                 </ul>
                             </div>
                         </div>

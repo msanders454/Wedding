@@ -12,7 +12,7 @@ import bride7 from '../../images/groomsmen-bridesmaid/6.jpg'
 import bride8 from '../../images/groomsmen-bridesmaid/8.jpg'
 import bride9 from '../../images/groomsmen-bridesmaid/9.jpg'
 import bride10 from '../../images/groomsmen-bridesmaid/10.jpg'
-import bride11 from '../../images/groomsmen-bridesmaid/11.jpg'
+//import bride11 from '../../images/groomsmen-bridesmaid/11.jpg'
 import bride12 from '../../images/groomsmen-bridesmaid/12.jpg'
 import './style.css'
 
@@ -26,12 +26,13 @@ const People = (props) => {
 
         <div id="people" className="person-area section-padding pb-70">
             <div className="container">
-                <Sectiontitle section={'Parents, Groomsmen & Bridesmaid'}/>
+                <Sectiontitle section={'Wedding Party'}/>
                 <div className="person-area-menu">
                     <div className="person-btn">
                         <Nav tabs>
                             <NavItem>
                             <NavLink
+                                id="groom"
                                 className={classnames({ active: activeTab === '1' })}
                                 onClick={() => { toggle('1'); }}
                             >
@@ -40,6 +41,7 @@ const People = (props) => {
                             </NavItem>
                             <NavItem>
                             <NavLink
+                                id="bride"
                                 className={classnames({ active: activeTab === '2' })}
                                 onClick={() => { toggle('2'); }}
                             >
@@ -218,22 +220,7 @@ const People = (props) => {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-4 col-md-6">
-                                        <div className="person-wrap">
-                                            <div className="person-img">
-                                                <img src={bride11} alt=""/>
-                                                <div className="social-list">
-                                                    <div className="social-list">
-                                                        <p>Pending. Not Official</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className="person-content">
-                                                <h3>... ...</h3>
-                                                <span>Best Friend</span>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
                                     <div className="col-lg-4 col-md-6">
                                         <div className="person-wrap">
                                             <div className="person-img">

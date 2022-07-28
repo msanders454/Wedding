@@ -92,3 +92,10 @@
         left: -120px;
     }
 }
+
+@media(max-width:300) {
+    .logo h2 a {
+        font-size: 15px;
+    }
+    
+}

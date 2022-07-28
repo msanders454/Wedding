@@ -116,8 +116,8 @@ const Story = () =>{
                                         </div>
                                         <h2>Our Wedding</h2>
                                         <span className="date">May 27, 2023</span>
-                                        <p>Now you get to be part of our story. Fill out the the RSVP form below and help us
-                                            celebrate this special event.
+                                        <p>Now you get to be part of our story. We can't wait for the event and we hope you guys can celebrate
+                                            the special event with us.
                                         </p>
                                     </div>
                                 </div>

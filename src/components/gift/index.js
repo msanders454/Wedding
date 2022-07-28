@@ -46,22 +46,20 @@ class Gift extends Component {
       };
       return (
           <div className="gift-area">
-              <div className="container">
+              <div className="container" id="gift-back">
                     <div className="col-12">
                       <div className="section-title text-center">
                           <h2>Gift Registration</h2>
-                          <div><a href="http://www.honeyfund.com/wedding/sanders-hammond-05-27-2023" >
+                          <div><a href="http://www.honeyfund.com/wedding/sanders-hammond-05-27-2023" target="_blank" rel="noopener noreferrer">
                             <img
                               id="seattle"
                               src={gift1}
                               alt="Seattle Needle"
                             /></a>
-                      </div>
+                          </div>
                           <p className="gift-info">To continue our mission to visit all 50 States, we have decided to create a honeymoon fund. We are planning on 
                             honeymooning in Seattle Washington. You can click the picture above and visit our Honeymoon registry. If you have the time to donate
                             we would very much appiciate it.</p>
-
-
                       </div>
                       <Slider {...settings}></Slider>
                   </div>

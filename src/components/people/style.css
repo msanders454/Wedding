@@ -115,24 +115,24 @@ person-area
     border: none;
     display: inline-block;
     padding: 10px 30px;
-    background: #5e9a8e;
+    background: #fdfb6d;
     transition: all .3s;
     font-size: 25px;
     border-right: 1px solid #fff;
-    color:#fff;
+    color:rgb(0, 0, 0);
     border-radius: 0;
     cursor: pointer;
 }
+#groom{
+    background: #5e9a8e;
+    color:#fff;
+}
+
+#bride{
+    background: #fdfb6d;
+    color:rgb(0, 0, 0);
+}
+
 .person-btn ul li:last-child a {
      border-right:none;
 }
-.person-btn .nav-tabs .nav-item.show .nav-link, 
-.person-btn .nav-tabs .nav-link.active{
-    background: #8e8016;
-    color: #fff;
-}
-.person-btn .nav-tabs .nav-item .nav-link:hover{
-    background: #667b21;
-    color: #fff;
-}
-

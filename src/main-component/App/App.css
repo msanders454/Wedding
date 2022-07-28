@@ -83,11 +83,33 @@ img{
   opacity: 1;
   left: 0;
   width: 100%;
-  background: #606a22;
+  background: #fdfb6d;
+  color:rgb(0, 0, 0);
   border: none;
   box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
     -moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
     -webkit-box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
+}
+
+.fixed-navbar.active .logo h2 a {
+  font-size: 36px;
+  font-family: 'Great Vibes', cursive;
+  color:black;
+}
+
+.fixed-navbar.active .logo h2 a span {
+  color: rgb(0, 0, 0);
+  padding: 0 10px;
+}
+
+.fixed-navbar.active .header ul li a{
+  color:rgba(1, 0, 0, 0.812);
+  text-decoration: none;
+}
+
+.fixed-navbar.active .showmenu i{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
 }
 .fixed-navbar.active .header-style-2,
 .fixed-navbar.active .header-style-3{

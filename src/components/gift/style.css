@@ -3,6 +3,12 @@
     border: 0px;
 }
 
+#gift-back{
+    background-color: #f7f7e6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 
 .gift-area .slick-slide img{
     width: unset;

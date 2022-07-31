@@ -21,7 +21,8 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Jessi Hammond</h3>
-                                            <p>Hi I am Jessi Hammond. I am going to introduce myself. I am going to introduce myself.</p>
+                                            <p>Hi I am Jessi. I am a medical student, but by the wedding I will be a doctor. I crochet in my free time and recently started 
+                                                needle point - cross stitch and embroidery. I am excited for our wedding and to have you at our celebration!</p>
                                         </div>
                                         <div className="social-icon">
                                             <ul className="d-flex">
@@ -47,9 +48,9 @@ const Couple = () => {
                                         <div className="couple-content">
                                             <h3>Michael Sanders</h3>
                                             <p>Hi I am Michael Sanders. Thank you for coming out to 
-                                                our website. I am an inspring web devloper who worked 
+                                                our website. I am an aspiring web devloper who worked 
                                                 hard on creating this site. I enjoy Presidents, 
-                                                Football "Fly Eagles Fly" and video games. Especically Zelda 
+                                                Football "Fly Eagles Fly," and video games - especically Zelda 
                                                 and Pokemon. I love Jessi with all my heart and will be her best
                                                 husband and partner in crime.</p>
                                         </div>

@@ -17,9 +17,9 @@ export default function App() {
 			questionText: `What is Jessi's favorite plant?`,
 			answerOptions: [
 				{ answerText: 'Cactus', isCorrect: true },
-				{ answerText: 'Daisys', isCorrect: false },
+				{ answerText: 'Daisies', isCorrect: false },
 				{ answerText: 'Roses', isCorrect: false },
-				{ answerText: 'Dandy Lions', isCorrect: false },
+				{ answerText: 'Dandelion', isCorrect: false },
 			],
 		},
 		{
@@ -32,12 +32,12 @@ export default function App() {
 			],
 		},
 		{
-			questionText: 'How many Goosebumps books did Jessi read?',
+			questionText: `What was Jessi's main in Soul Calibur`,
 			answerOptions: [
-				{ answerText: '15', isCorrect: false },
-				{ answerText: '30', isCorrect: false },
-				{ answerText: '60', isCorrect: false },
-				{ answerText: '0', isCorrect: true },
+				{ answerText: 'Tira', isCorrect: false },
+				{ answerText: 'Talim', isCorrect: false },
+				{ answerText: 'Ivy', isCorrect: false },
+				{ answerText: 'Voldo', isCorrect: true },
 			],
 		},
         {
@@ -54,7 +54,7 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Thor Rudoloph Hammond', isCorrect: false },
 				{ answerText: 'Sprigatito Shawn Sanders', isCorrect: false },
-				{ answerText: 'Boog Gey Sanders', isCorrect: true },
+				{ answerText: 'Boog Gee Sanders', isCorrect: true },
 				{ answerText: 'Borg George Sammond', isCorrect: false },
 			],
 		},
@@ -68,12 +68,12 @@ export default function App() {
 			],
 		},
         {
-			questionText: `What Sport did Jessi play in High School?`,
+			questionText: `What Lacrosse position did Jessi like to play the most?`,
 			answerOptions: [
-				{ answerText: 'Lacrosse', isCorrect: true },
-				{ answerText: 'Soccer', isCorrect: false },
-				{ answerText: 'Softball', isCorrect: false },
-				{ answerText: 'Tennis', isCorrect: false },
+				{ answerText: 'Attack', isCorrect: false },
+				{ answerText: 'Defense', isCorrect: true },
+				{ answerText: 'Mid-Field', isCorrect: false },
+				{ answerText: 'Goalie', isCorrect: false },
 			],
 		},
         {
@@ -86,12 +86,12 @@ export default function App() {
 			],
 		},
         {
-			questionText: `What was Jessi's favorite TV show, growing up?`,
+			questionText: `What is Jessi's favorite Book?`,
 			answerOptions: [
-				{ answerText: 'Fruit Basket', isCorrect: false },
-				{ answerText: 'Psych', isCorrect: false },
-				{ answerText: 'Full House', isCorrect: false },
-				{ answerText: 'Dr. Who', isCorrect: true },
+				{ answerText: 'Slice of Cherry', isCorrect: false },
+				{ answerText: 'Cinder', isCorrect: false },
+				{ answerText: 'Kife of Never Letting Go', isCorrect: true },
+				{ answerText: 'Twilight', isCorrect: true },
 			],
 		},
         {
@@ -108,15 +108,15 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Knitting', isCorrect: false },
 				{ answerText: 'Crocheting', isCorrect: true },
-				{ answerText: 'Sewing', isCorrect: false },
-				{ answerText: 'Cross-Stitching', isCorrect: false },
+				{ answerText: 'Hiking', isCorrect: false },
+				{ answerText: 'Cooking', isCorrect: false },
 			],
 		},
         {
-			questionText: `What s Mike's favorite dessert?`,
+			questionText: `What is Mike's favorite dessert?`,
 			answerOptions: [
-				{ answerText: 'Choclate Cake & Vanilla Ice Cream', isCorrect: false },
-				{ answerText: 'Cheese Cake & Chocolate Ice Cream', isCorrect: false },
+				{ answerText: 'Chocolate Cake & Vanilla Ice Cream', isCorrect: false },
+				{ answerText: 'Cheesecake & Chocolate Ice Cream', isCorrect: false },
 				{ answerText: 'Marble Cake & Cookies and Cream Ice Cream', isCorrect: false },
 				{ answerText: 'Pound Cake & Vanilla Ice Cream', isCorrect: true },
 			],
@@ -149,7 +149,7 @@ export default function App() {
 			],
 		},
         {
-			questionText: `Which 2 sports did Mike grow up pplaying mostly?`,
+			questionText: `Which 2 sports did Mike grow up playing mostly?`,
 			answerOptions: [
 				{ answerText: 'Soccer, Baseball', isCorrect: true },
 				{ answerText: 'Soccer, Swimming', isCorrect: false },
@@ -158,7 +158,7 @@ export default function App() {
 			],
 		},
         {
-			questionText: `Which Non-TV  did Michael grow up watching the most?`,
+			questionText: `Which Non-cartoon TV show did Michael grow up watching the most?`,
 			answerOptions: [
 				{ answerText: 'Roseanne', isCorrect: false },
 				{ answerText: 'Fresh Prince', isCorrect: false },
@@ -170,18 +170,19 @@ export default function App() {
 			questionText: `Which medical field is Jessi pursuing residency for?`,
 			answerOptions: [
 				{ answerText: 'Orthopedics', isCorrect: false },
-				{ answerText: 'PMNR', isCorrect: true },
+				{ answerText: 'PM&R', isCorrect: true },
 				{ answerText: 'Internal Medicine', isCorrect: false },
-				{ answerText: 'Neuro', isCorrect: false},
+				{ answerText: 'Neurology', isCorrect: false},
 			],
 		},
         {
 			questionText: `What is the name for a frozen or semi-frozen sweetened treat served at Ritas?`,
 			answerOptions: [
 				{ answerText: 'Water Ice', isCorrect: true },
-				{ answerText: 'Intalian Ice', isCorrect: false },
-				{ answerText: `I know what you're thinking. Everyone outside of Philly is wrong.`, isCorrect: true },
+				{ answerText: 'Italian Ice', isCorrect: false },
+				{ answerText: `I know what you're thinking. Everyone outside of Philly is wrong.`, isCorrect: false },
 				{ answerText: `If you don't choose water ice, you are wrong.`, isCorrect: false},
+				{ answerText: 'Mike is wrong', isCorrect: true }
 			],
 		},
 	];

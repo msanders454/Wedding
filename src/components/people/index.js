@@ -178,7 +178,7 @@ const People = (props) => {
                                                 <img src={bride8} alt=""/>
                                                 <div className="social-list">
                                                     <div className="social-list">
-                                                        <p>“Please be better than Hermaine and Ron.”</p>
+                                                        <p>“Make sure you wear a scarf or you'll be infertile.”</p>
                                                     </div>
                                                 </div>
                                             </div>

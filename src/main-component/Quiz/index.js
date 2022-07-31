@@ -52,7 +52,7 @@ export default function App() {
         {
 			questionText: `What is the Mike and Jessi's cat's name?`,
 			answerOptions: [
-				{ answerText: 'Thor Rudoloph Hammond', isCorrect: false },
+				{ answerText: 'Thor Rudolph Hammond', isCorrect: false },
 				{ answerText: 'Sprigatito Shawn Sanders', isCorrect: false },
 				{ answerText: 'Boog Gee Sanders', isCorrect: true },
 				{ answerText: 'Borg George Sammond', isCorrect: false },
@@ -90,7 +90,7 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Slice of Cherry', isCorrect: false },
 				{ answerText: 'Cinder', isCorrect: false },
-				{ answerText: 'Kife of Never Letting Go', isCorrect: true },
+				{ answerText: 'Knife of Never Letting Go', isCorrect: true },
 				{ answerText: 'Twilight', isCorrect: true },
 			],
 		},

@@ -36,7 +36,7 @@ const People = (props) => {
                                 className={classnames({ active: activeTab === '1' })}
                                 onClick={() => { toggle('1'); }}
                             >
-                                Groomsman
+                                Mike's Crew
                             </NavLink>
                             </NavItem>
                             <NavItem>
@@ -45,7 +45,7 @@ const People = (props) => {
                                 className={classnames({ active: activeTab === '2' })}
                                 onClick={() => { toggle('2'); }}
                             >
-                                Bridemaids
+                                Jessi's Crew
                             </NavLink>
                             </NavItem>
                         </Nav>

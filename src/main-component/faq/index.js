@@ -61,7 +61,6 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Where should I park</h2>
-                                        <span className="date">May 27, 2023</span>
                                         <p>The venue has free parking outside and in a garage for those staying at the hotel.
                                             For those not staying there, parking downtown does cost money. They have overnight parking 
                                             on Pugh St, Fraser Street and Beaver Ave.

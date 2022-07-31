@@ -24,14 +24,14 @@
     margin-top: 50px;
     z-index: 99;
     color: white ;
-    background: rgba(11, 54, 17, 0.636);
+    background: rgba(29, 109, 40, 0.636);
     border-bottom: 1px solid rgba(167, 169, 43, 0);
     text-align: left;
     margin-left: -20px;
 }
 
 .back-quiz:hover {
-    background-color: #252f22;
+    background-color: #7fcb22;
   }
 
 .score-section {
@@ -117,7 +117,7 @@
   }
   
   button:hover {
-    background-color: #0b1708;
+    background-color: #b8d0b1;
   }
   
   button:focus {

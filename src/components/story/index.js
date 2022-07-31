@@ -57,7 +57,7 @@ const Story = () =>{
                                         <h2>Our First Date</h2>
                                         <span className="date">July 26, 2017</span>
                                         <p>Nothing is better then Chipotle. Mike and Jessi's official first date was Chiptole.
-                                            Ok, not the most special place, but hey, we were college students. Plus we both
+                                            Ok, not the most special place, but hey, we were college students. Plus, we both
                                             love Burrito bowls.
                                         </p>
                                     </div>
@@ -78,7 +78,7 @@ const Story = () =>{
                                         <span className="date">Sept 7, 2021</span>
                                         <p>We don't like cheesecake with lemon. After moving in together in 2020, Michael and Jessi felt
                                             the time was right for marriage. Mike thought the perfect proposal was to use ring pops and cheesecake.
-                                            We really are not the flashy type of people but the proposal was right for us. Next time though
+                                            We are not the flashy type of people, but the proposal was right for us. Next time though,
                                             let's have cheesecake without lemon.
                                         </p>
                                     </div>
@@ -96,8 +96,8 @@ const Story = () =>{
                                         </div>
                                         <h2>Our First Child</h2>
                                         <span className="date">June 24, 2022</span>
-                                        <p>On this day, Jessi and Mike Adopted thier first child. Ok may he's not
-                                            a human but he's still thier kid. Boog Gee Sanders is his name. And just like
+                                        <p>On this day, Jessi and Mike adopted their first child. Ok maybe he's not
+                                            a human but he's still their kid. Boog Gee Sanders is his name. And just like
                                             a Sanders, Boog loves to eat.
                                         </p>
                                     </div>

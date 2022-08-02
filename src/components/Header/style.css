@@ -24,6 +24,7 @@
 .header ul li a:hover{
     font-size: 20px;
     font-weight: bold;
+    text-shadow: 0 0 3px #020202, 0 0 5px #000000;
 }
 .logo {
     margin-top: 20px;

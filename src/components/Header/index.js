@@ -29,9 +29,9 @@ const Header = (props) => {
                                     <li><AnchorLink href='#story'>Story</AnchorLink></li>
                                     <li><AnchorLink href='#people'>People</AnchorLink></li>
                                     <li><AnchorLink href='#event'>Events</AnchorLink></li>
+                                    <li><AnchorLink href='#rsvp'>Songs and Gifts</AnchorLink></li>
                                     <li><Link to='faq'>FAQ</Link></li>
                                     <li><Link to='quiz'>Quiz</Link></li>
-                                    <li><AnchorLink href='#rsvp'>Songs and Gifts</AnchorLink></li>
                                 </ul>
                             </div>
                         </div>

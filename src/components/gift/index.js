@@ -58,7 +58,7 @@ class Gift extends Component {
                             /></a>
                           </div>
                           <p className="gift-info">To continue our mission to visit all 50 States, we are planning on 
-                            honeymooning in Seattle, Washington. In place of a gift registry, we are doing a honeymoon fund. You can click the picture above and visit our Honeymoon registry. If you have the time to donate
+                            honeymooning in Seattle, Washington. In place of a gift registry, we are doing a honeymoon fund. You can <b>CLICK THE NEEDLE ABOVE</b> and visit our Honeymoon registry. If you have the time to donate
                             we would very much appreciate it.</p>
                       </div>
                       <Slider {...settings}></Slider>

@@ -28,8 +28,8 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Is there a a theme?</h2>
-                                        <p>No theme, just celebrating. Wedding colors are Yellow and Green. 
-                                            Other than that wear normal wedding attire. We are not picky. 
+                                        <p>No theme, just a celebration. The wedding colors are Yellow and Green, if you couldn't already tell. 
+                                            Other than that, wear normal wedding attire. We're not picky. 
                                         </p>
                                     </div>
                                 </div>
@@ -39,8 +39,8 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What time should I arrive?</h2>
-                                        <p> As this website is public, we are avoiding putting specific details on it. Please keep an eye out for your invitations (both online and physical) around February.
-                                            I would suggest arriving at the venue 30 minutes before the ceremony. 
+                                        <p> As this is a public website, we are avoiding putting specific details on it. Please keep an eye out for your invitations (both online and physical) around February.
+                                            The wedding will be at 2 o'clock PM on May 27th. We would suggest arriving at the venue 30 minutes before the ceremony. 
                                         </p>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const faq = () =>{
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What happens between the ceremony and reception?</h2>
                                         <p>Jessi and Mike will taking pictures at various PSU locations. During this time, you are free to do whatever you want. Explore Penn State and State
-                                            college. Information for what to do will be listed soon. Remember to be back at the venue 30 minutes before the reception
+                                            College. Information for what to do will be listed soon. Remember to be back at the venue 30 minutes before the reception
                                         </p>
                                     </div>
                                 </div>
@@ -61,9 +61,9 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Where should I park</h2>
-                                        <p>The venue has free parking outside and in a garage for those staying at the hotel.
-                                            For those not staying there, parking downtown does cost money. They have overnight parking 
-                                            on Pugh St, Fraser Street and Beaver Ave.
+                                        <p>The venue has free parking outside and in a garage, for those staying at the hotel.
+                                            For those not staying at the hotel, parking downtown does cost money. They have overnight parking 
+                                            on Pugh St, Fraser Street and Beaver Ave. Penn State Campus also has free parking on the Weekends. However, they are not overnight parking.
                                         </p>
                                     </div>
                                 </div>
@@ -74,9 +74,9 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What should I do if I can’t make it?</h2>
-                                        <p>RSVPs are due on April 20th, 2023. If you cannot 
+                                        <p>We will send out invitations and RSVPs at around January and February 2023. RSVPs are due on April 20th, 2023. If you cannot 
                                             make it please RSVP a No. If you RSVP a Yes and later learn that you can't make it, you 
-                                            can resubmit the RSVP request and reply with no. If you are not sure, please submitt a no until you can confirm that you can make it.
+                                            can resubmit the RSVP request and reply with no. If you are not sure, please submit a no until you can confirm that you can make it.
                             
                                         </p>
                                     </div>
@@ -85,14 +85,14 @@ const faq = () =>{
                                     <div className="story-icon">
                                         <span className="flaticon-birds-in-love"></span>
                                     </div>
-                                    <div className="story-content" id='faq-stuff'>
+                                    <div className="story-content" id='faq-kids'>
                                         <h2>Are kids and pets Welcome??</h2>
                                         <p>As of right now, we are still trying to decide if children will be allowed. Please check back here around November-December for a final decision. The reception
                                             will have alcohol though, including 1 hour of open bar. 
                                             
-                                            As for pets, the Graduate hotel allows pets. I don't actually expect any of you to bring your
-                                            pets, but if you want to cool. But please no pets at the ceremony or reception though. We are actually thinking about bring our cat Boog. So if you 
-                                            want to meet him, he will be happy to meet you.
+                                            As for pets, the Graduate hotel allows pets. We don't actually expect any of you to bring your
+                                            pets but, if you want to, cool. However, no pets at the ceremony or reception. We are actually thinking about bringing our cat Boog. So if you 
+                                            want to meet him, he will be happy to meet you. But, Boog will be in the hotel room on wedding day.
                                         </p>
                                     </div>
                                 </div>
@@ -113,7 +113,8 @@ const faq = () =>{
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Will food and drinks be served at the reception? What kind of food?</h2>
                                         <p>Food and drinks will be at the reception. If you have any allergy or dietary restrictions
-                                            please respond so in your RSVP and we will plan accordingly.
+                                            please respond so in your RSVP invitation or form when it arrives. We will plan accordingly base 
+                                            on peoples allergys and diet restrictions.
 
                                             Drinks will be there. There will be 1 hour of open bar, then you will have to pay. The hour time for the open bar will be announced later.
                                             
@@ -127,7 +128,7 @@ const faq = () =>{
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Where do you recommend I stay?</h2>
                                         <p> We do have rooms blocked at hotel/venue. That is where Mike and Jessi will be staying (and where the reception is, so it is convenient for people looking to get drunk). Just mention that
-                                            you are part of the Hammond-Sanders wedding on May 27th. They are booked for Friday, May 26th and Sat May 27th. It is memorial day weekend, so if you choose to stay an extra day (Sunday night) know that the rooms are not blocked that night, so it is 
+                                            you are part of the Hammond-Sanders wedding on May 27th. They are booked for Friday, May 26th and Sat May 27th. It is memorial day weekend, so if you choose to stay an extra day (Sunday night), know that the rooms are not blocked that night. It is 
                                             not guaranteed and prices may change. 
 
                                             The hotel should be $149 for Friday and Saturday night, but if you choose to stay extra days outside of our blocked time the price could vary.
@@ -153,7 +154,7 @@ const faq = () =>{
                                         <p>During the ceromony, no. We ask that you do NOT take pictures. We will have a professional photographer and we trust them to do their job. We will post pictures that you can save.
 
                                             The reception is fair game though. Take as many pictures as you want. We ask that you do not post them on Social Media
-                                            until we post our own pictures. But when you do post please tag us!! And if you would like to send us pictures you can send to the email listed below.
+                                            until we post our own pictures. But when you do post please tag us!! Use the #HammondSanders And if you would like to send us pictures you can send to the email listed below.
                                         </p>
                                     </div>
                                 </div>
@@ -187,7 +188,7 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>I still have questions, what is the best way to contact you?</h2>
-                                        <p>You can contact us at @jessiandmikesittinginatree@gmail.com for any other questions. I assume most
+                                        <p>You can contact us at @jessiandmikesittinginatree@gmail.com for any other questions. We assume most
                                             of you have our numbers so you can contact us there as well. We both prefer text over phone calls.
 
                                             During the Wedding weekend, especially Wedding day, we might be busy and unable to respond to you during

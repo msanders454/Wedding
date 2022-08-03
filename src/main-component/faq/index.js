@@ -39,8 +39,8 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What time should I arrive?</h2>
-                                        <p> As this is a public website, we are avoiding putting specific details on it. Please keep an eye out for your invitations (both online and physical) around February.
-                                            The wedding will be at 2 o'clock PM on May 27th. We would suggest arriving at the venue 30 minutes before the ceremony. 
+                                        <p> As this is a public website, we are avoiding putting specific details on it. Please keep an eye out for your invitations (both online and physical) to be sent around February.
+                                            Once you know the start time, we would suggest arriving at the venue 30 minutes before the ceremony. 
                                         </p>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const faq = () =>{
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What happens between the ceremony and reception?</h2>
                                         <p>Jessi and Mike will taking pictures at various PSU locations. During this time, you are free to do whatever you want. Explore Penn State and State
-                                            College. Information for what to do will be listed soon. Remember to be back at the venue 30 minutes before the reception
+                                            College. Information for what to do will be listed here soon. Remember to be back at the venue 30 minutes before the reception
                                         </p>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@ const faq = () =>{
                                         <h2>Where should I park</h2>
                                         <p>The venue has free parking outside and in a garage, for those staying at the hotel.
                                             For those not staying at the hotel, parking downtown does cost money. They have overnight parking 
-                                            on Pugh St, Fraser Street and Beaver Ave. Penn State Campus also has free parking on the Weekends. However, they are not overnight parking.
+                                            on Pugh St, Fraser Street and Beaver Ave. Penn State Campus also has free parking on the Weekends. However, they do not have overnight parking.
                                         </p>
                                     </div>
                                 </div>
@@ -74,9 +74,9 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>What should I do if I can’t make it?</h2>
-                                        <p>We will send out invitations and RSVPs at around January and February 2023. RSVPs are due on April 20th, 2023. If you cannot 
-                                            make it please RSVP a No. If you RSVP a Yes and later learn that you can't make it, you 
-                                            can resubmit the RSVP request and reply with no. If you are not sure, please submit a no until you can confirm that you can make it.
+                                        <p>We will send out invitations and RSVPs around February 2023. RSVPs are due on April 20th, 2023. If you cannot 
+                                            make it please RSVP no. If you RSVP yes and later learn that you can't make it, you 
+                                            can resubmit the RSVP request and reply with no. If you are not sure, please submit no until you can confirm that you can make it.
                             
                                         </p>
                                     </div>
@@ -92,7 +92,7 @@ const faq = () =>{
                                             
                                             As for pets, the Graduate hotel allows pets. We don't actually expect any of you to bring your
                                             pets but, if you want to, cool. However, no pets at the ceremony or reception. We are actually thinking about bringing our cat Boog. So if you 
-                                            want to meet him, he will be happy to meet you. But, Boog will be in the hotel room on wedding day.
+                                            want to meet him, he will be happy to meet you. But, Boog will be in the hotel room on the wedding day.
                                         </p>
                                     </div>
                                 </div>
@@ -113,8 +113,8 @@ const faq = () =>{
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Will food and drinks be served at the reception? What kind of food?</h2>
                                         <p>Food and drinks will be at the reception. If you have any allergy or dietary restrictions
-                                            please respond so in your RSVP invitation or form when it arrives. We will plan accordingly base 
-                                            on peoples allergys and diet restrictions.
+                                            please respond so in your RSVP invitation or form when it arrives. We will plan accordingly based 
+                                            on peoples allergies and diet restrictions.
 
                                             Drinks will be there. There will be 1 hour of open bar, then you will have to pay. The hour time for the open bar will be announced later.
                                             
@@ -153,8 +153,8 @@ const faq = () =>{
                                         <h2>Can I take and post pictures of the wedding on social media?</h2>
                                         <p>During the ceromony, no. We ask that you do NOT take pictures. We will have a professional photographer and we trust them to do their job. We will post pictures that you can save.
 
-                                            The reception is fair game though. Take as many pictures as you want. We ask that you do not post them on Social Media
-                                            until we post our own pictures. But when you do post please tag us!! Use the #HammondSanders And if you would like to send us pictures you can send to the email listed below.
+                                            The reception is fair game though. Take as many pictures as you want. We ask that you do not post them on social media
+                                            until we post our own pictures. But when you do post please tag us!! Use the #HammondSanders and if you would like to send us pictures you can send to the email listed below.
                                         </p>
                                     </div>
                                 </div>
@@ -176,11 +176,11 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-stuff'>
                                         <h2>Do you have great recommendations for cafes, restaurants, museums, points of interest, and activities?</h2>
-                                        <p>For a college town, State College has suprisingly a lot to do during the weekend. It's not as busy during the summer
-                                            but theres still a lot to do. Information for what to do will be listed soon.
+                                        <p>For a college town, State College suprisingly has a lot to do during the weekend. It's not as busy during the summer
+                                            but theres still a lot to do. Information for what to do will be listed here soon.
                                         </p>
                                     </div>
-                                </div>
+                                </div> 
 
                                 <div className="item">
                                     <div className="story-icon">
@@ -191,7 +191,7 @@ const faq = () =>{
                                         <p>You can contact us at @jessiandmikesittinginatree@gmail.com for any other questions. We assume most
                                             of you have our numbers so you can contact us there as well. We both prefer text over phone calls.
 
-                                            During the Wedding weekend, especially Wedding day, we might be busy and unable to respond to you during
+                                            During the Wedding weekend, especially the Wedding day, we might be busy and unable to respond to you during
                                             that time. In that case, you can contact our Matron of Honor Rachael Robinson, and Best Man Bilal Ahmed for
                                             any wedding questions.
                                         </p>

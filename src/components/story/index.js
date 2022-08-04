@@ -37,7 +37,7 @@ const Story = () =>{
                                         <span className="date">May 31, 2017</span>
                                         <p>Prepare for trouble and make it double. Mike and Jessi met in Pollock dining commons,
                                              while taking a water break. Mike's pickup line was asking if Jessi had a partner name James
-                                            and a cat name Meowth. Jessi thought she was in trouble unitil she found out, Mike was just
+                                            and a cat name Meowth. Jessi thought she was in trouble until she found out, Mike was just
                                             weird.
                                         </p>
                                     </div>

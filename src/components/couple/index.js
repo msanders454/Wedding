@@ -48,7 +48,7 @@ const Couple = () => {
                                         <div className="couple-content">
                                             <h3>Michael Sanders</h3>
                                             <p>Hi I am Michael Sanders. Thank you for coming out to 
-                                                our website. I am an aspiring web devloper who worked 
+                                                our website. I am an aspiring web developer who worked 
                                                 hard on creating this site. I enjoy Presidents, 
                                                 Football "Fly Eagles Fly," and video games - especically Zelda 
                                                 and Pokemon. I love Jessi with all my heart and will be her best

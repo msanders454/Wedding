@@ -87,8 +87,7 @@ const faq = () =>{
                                     </div>
                                     <div className="story-content" id='faq-kids'>
                                         <h2>Are kids and pets Welcome??</h2>
-                                        <p>As of right now, we are still trying to decide if children will be allowed. Please check back here around November-December for a final decision. The reception
-                                            will have alcohol though, including 1 hour of open bar. 
+                                        <p><b>UPDATE:</b> Kids are welcome. When you get yout RSVP form, fill out that you will be bringing your kids. 
                                             
                                             As for pets, the Graduate hotel allows pets. We don't actually expect any of you to bring your
                                             pets but, if you want to, cool. However, no pets at the ceremony or reception. 

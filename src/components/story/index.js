@@ -99,6 +99,10 @@ const Story = () =>{
                                         <p>On this day, Jessi and Mike adopted their first child. Ok maybe he's not
                                             a human but he's still their kid. Boog Gee Sanders is his name. And just like
                                             a Sanders, Boog loves to eat.
+                                            <br></br>
+                                            <br></br>
+                                            <b>UPDATE:</b> So it turns out Boog hates cars. He hates seeing them, riding them, driving them and etc. 
+                                            So unfortunately, Boog will not be attending the wedding. 
                                         </p>
                                     </div>
                                 </div>

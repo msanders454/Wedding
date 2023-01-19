@@ -91,8 +91,11 @@ const faq = () =>{
                                             will have alcohol though, including 1 hour of open bar. 
                                             
                                             As for pets, the Graduate hotel allows pets. We don't actually expect any of you to bring your
-                                            pets but, if you want to, cool. However, no pets at the ceremony or reception. We are actually thinking about bringing our cat Boog. So if you 
-                                            want to meet him, he will be happy to meet you. But, Boog will be in the hotel room on the wedding day.
+                                            pets but, if you want to, cool. However, no pets at the ceremony or reception. 
+                                            <br></br>
+                                            <br></br>
+                                             <b>UPDATE:</b> So it turns out Boog, our cat, hates cars. He hates seeing them, riding them, driving them and etc. 
+                                            So unfortunately, Boog will not be attending the wedding.
                                         </p>
                                     </div>
                                 </div>
@@ -130,10 +133,13 @@ const faq = () =>{
                                         <p> We do have rooms blocked at hotel/venue. That is where Mike and Jessi will be staying (and where the reception is, so it is convenient for people looking to get drunk). Just mention that
                                             you are part of the Hammond-Sanders wedding on May 27th. They are booked for Friday, May 26th and Sat May 27th. It is memorial day weekend, so if you choose to stay an extra day (Sunday night), know that the rooms are not blocked that night. It is 
                                             not guaranteed and prices may change. 
-
+                                            <br></br>
+                                            <br></br>
+                                        <p><b>UPDATE:</b> Yes we have the link to the Hotel bookings. Jessi and Mike will be sending invitations soon. If you want the invite right now, please contact Mike or Jessi with the invite link.</p>
                                             The hotel should be $149 for Friday and Saturday night, but if you choose to stay extra days outside of our blocked time the price could vary.
                                             If you would like to use the hotel, you will need to book by April 26th, after that day they release the unused rooms.
-
+                                            <br></br>
+                                            <br></br>
                                             Other hotels are available. Here is a list of other hotels near the venue.
                                         </p>
                                         <ul className='faq-list'>

@@ -3,6 +3,30 @@
     border: 0px;
 }
 
+#buttonGift{
+    background-color: #eb1b0c;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  #buttonFont{
+    font-size: 28px;
+    color: white;
+
+  }
+
+  #buttonGift:hover {
+    background-color: #943f0a;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+
 #gift-back{
     background-color: #f7f7e6;
     padding-top: 30px;

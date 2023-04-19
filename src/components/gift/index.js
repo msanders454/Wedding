@@ -57,8 +57,10 @@ class Gift extends Component {
                               alt="Seattle Needle"
                             /></a>
                           </div>
+                          <div id="buttonGift"><a id='buttonFont' href="http://www.honeyfund.com/wedding/sanders-hammond-05-27-2023" target="_blank" rel="noopener noreferrer">CLICK ME!</a>
+                          </div>
                           <p className="gift-info">To continue our mission to visit all 50 States, we are planning on 
-                            honeymooning in Seattle, Washington. In place of a gift registry, we are doing a honeymoon fund. You can <b>CLICK THE NEEDLE ABOVE</b> and visit our Honeymoon registry. If you have the time to donate
+                            honeymooning in Seattle, Washington. In place of a gift registry, we are doing a honeymoon fund. You can <b>CLICK THE NEEDLE ABOVE</b> or <b>Click THE RED BUTTON THAT SAYS CLICK ME!</b> and visit our Honeymoon registry. If you have the time to donate
                             we would very much appreciate it.</p>
                       </div>
                       <Slider {...settings}></Slider>

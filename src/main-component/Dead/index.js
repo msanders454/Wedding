@@ -109,7 +109,7 @@ const Dead = () => {
                                                 <div className="social-list">
                                                     <div className="social-list">
                                                         <div className="social-list">
-                                                            <p>1963-2019</p>
+                                                            <p>1964-2019</p>
                                                         </div>
                                                 </div>
                                                 </div>

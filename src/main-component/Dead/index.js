@@ -20,7 +20,7 @@ const Dead = () => {
                         <div className="section-title text-center">
                         <h2>Memorial</h2>
                         </div>
-                        <p className='intro'>It will be a special day on May 27th. We would like to remember all of our family members who sadly couldn't make it, that we know are watching us above</p>
+                        <p className='intro'>It will be a special day on May 27th. We would like to remember all of our family members who sadly couldn't make it. We know that they are watching us above</p>
                         <TabPane tabId="1">
                         <div className="Groomsman-wrap">
                                 <div className="row">

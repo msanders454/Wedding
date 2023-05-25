@@ -18,7 +18,7 @@ const Header = (props) => {
                     <div className="row">
                         <div className="col-lg-3 col-10">
                             <div className="logo">
-                                <h2 id='title'><Link to='/home'>Michael <span><i className="fa fa-heart" aria-hidden="true"></i></span>Jessi</Link></h2>
+                                <h2 id='title'><Link to='/'>Michael <span><i className="fa fa-heart" aria-hidden="true"></i></span>Jessi</Link></h2>
                             </div>
                         </div>
                         <div className="col-lg-9">
@@ -30,6 +30,7 @@ const Header = (props) => {
                                     <li><AnchorLink href='#people'>People</AnchorLink></li>
                                     <li><AnchorLink href='#event'>Events</AnchorLink></li>
                                     <li><AnchorLink href='#rsvp'>Songs and Gifts</AnchorLink></li>
+                                    <li><Link to='schedule'>Schedule</Link></li>
                                     <li><Link to='faq'>FAQ</Link></li>
                                     <li><Link to='memorial'>Memorial</Link></li>
                                     <li><Link to='quiz'>Quiz</Link></li>

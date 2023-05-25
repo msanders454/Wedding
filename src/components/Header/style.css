@@ -92,6 +92,10 @@
     .header-menu .submenu2{
         left: -120px;
     }
+
+    .header ul li a{
+        font-size: 14.25px;
+    }
 }
 
 @media(max-width:300) {

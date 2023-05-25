@@ -6,6 +6,7 @@ import faq from '../faq'
 import Footer from '../../components/footer'
 import Quiz from '../Quiz'
 import Dead from '../Dead'
+import Schedule from '../schedule';
 import ScrollRestoration from 'react-scroll-restoration'
 import './App.css';
 
@@ -18,6 +19,7 @@ const App = () => {
        <ScrollRestoration />
           <Switch>
             <Route exact path='/' component={Homepage} />
+            <Route exact path='/schedule' component={Schedule} />
             <Route exact path='/faq' component={faq} />
             <Route exact path='/quiz' component={Quiz} />
             <Route exact path='/memorial' component={Dead} />

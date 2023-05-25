@@ -183,6 +183,53 @@ const faq = () =>{
                                         <h2>Do you have great recommendations for cafes, restaurants, museums, points of interest, and activities?</h2>
                                         <p>For a college town, State College suprisingly has a lot to do during the weekend. It's not as busy during the summer
                                             but theres still a lot to do. Information for what to do will be listed here soon.
+                                            
+                                            <br></br>
+                                            <br></br>ease contact Mike or Jessi with the invite link.
+                                        <p><b>UPDATE:</b>Here are links for things to do at State college </p>
+                                            <br></br>
+                                            <div className='Fun-Heading'>Adventure:</div>
+                                            <ul className='faq-list'>
+                                                
+                                                <li><a href="https://happyvalley.com/member/tussey-mountain-all-seasons/">TUSSEY MOUNTAIN ALL SEASONS</a></li>
+                                                <li><a href="https://happyvalley.com/member/bellefonte-art-museum-for-centre-county/">BELLEFONTE ART MUSEUM FOR CENTRE COUNTY</a></li>
+                                                <li><a href="https://happyvalley.com/member/mount-nittany-conservancy/">MOUNT NITTANY CONSERVANCY</a></li>
+                                                <li><a href="https://happyvalley.com/member/shavers-creek-environmental-center/">SHAVER'S CREEK ENVIRONMENTAL CENTER</a></li>
+                                                <li><a href="https://happyvalley.com/member/get-air-state-college/">GET AIR STATE COLLEGE</a></li>
+                                            </ul>
+                                            <br></br>
+                                            <div className='Fun-Heading'>On Campus:</div>
+                                            <ul className='faq-list'>
+                                                <li><a href="https://happyvalley.com/member/penn-state-all-sports-museum/">PENN STATE ALL-SPORTS MUSEUM</a></li>
+                                                <li><a href="https://studentaffairs.psu.edu/hub">HUB-ROBESON CENTER</a></li>
+                                                <li><a href="https://www.huck.psu.edu/about/learn-more/millennium-science-complex">MILLENNIUM SCIENCE COMPLEX. The Gardern</a></li>
+                                                <li><a href="https://directory.alumni.psu.edu/s/1218/16/interior.aspx?sid=1218&gid=4&pgid=4257">HINTZ FAMILY ALUMNI CENTER. The Garden</a></li>
+                                                <li><a href="https://museum.ems.psu.edu/">EMS MUSEUM & ART GALLERY</a></li>
+                                            
+                                        
+                                            </ul>
+                                            <br></br>
+                                            <div className='Fun-Heading'>Food:</div>
+                                            <ul className='faq-list'>
+                                                <li><a href="https://creamery.psu.edu/">PENN STATE BERKEY CREAMERY</a></li>
+                                                <li><a href="https://happyvalley.com/member/american-alehouse-&-grill/">AMERICAN ALEHOUSE & GRILL</a></li>
+                                                <li><a href="https://happyvalley.com/member/brothers-pizza-&-pasta/">BROTHER'S PIZZA & PASTA</a></li>
+                                                <li><a href="https://happyvalley.com/member/happy-valley-brewing-co./">HAPPY VALLEY BREWING CO.</a></li>
+                                                <li><a href="https://happyvalley.com/member/happy-valley-vineyard-&-winery/">HAPPY VALLEY VINEYARD & WINERY</a></li>
+                                                <li><a href="https://happyvalley.com/member/original-waffle-shop/">ORIGINAL WAFFLE SHOP</a></li>
+                                            </ul>
+                                            <br></br>
+                                            <div className='Fun-Heading'>Nightlife:</div>
+                                            <ul className='faq-list'>
+                                                <li><a href="https://sharkiespsu.com/">SHARKIE BAR & THRIFTY BOTTLE</a></li>
+                                                <li><a href="https://localwhiskeybar.com/">LOCAL WHISKEY</a></li>
+                                                <li><a href="http://www.cafe210.net/">CAFE 210 WEST</a></li>
+                                                <li><a href="http://www.billpicklestaproom.com/">BILL PICKLES TAP ROOM</a></li>
+                                                <li><a href="https://www.dantesinc.com/thesaloon">The SALOON</a></li>
+                                                <li><a href="https://www.theshandygaff.com/">THE SHANDYGAFF</a></li>
+                                            </ul>
+
+
                                         </p>
                                     </div>
                                 </div> 
